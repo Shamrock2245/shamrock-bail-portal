@@ -53,7 +53,10 @@ It is meant to align staff, developers, and AI agents on shared language.
 ## Counties (Service Area)
 - **Lee County**: Primary jurisdiction for Shamrock Bail Bonds.  
 - **Charlotte County**: Adjacent service area.  
-- **Collier County**: Additional service area.  
+- **Collier County**: Additional service area.
+- **Hendry County**: Adjacent service area.
+- **Sarasota County**: Additional service area.
+- **Manatee County**: Additional service area.
 
 ---
 
